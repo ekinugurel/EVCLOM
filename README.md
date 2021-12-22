@@ -10,15 +10,15 @@ It was written in the Python programming language and used on the Python version
 ## Configuration (config.cfg)
 The user can provide custom configuration files to be read by the framework. This is done via the main configuration file config.cfg.
 
-Licensing
+## Licensing
 See the LICENSE file for licensing information as it pertains to
 files in this repository.
 
-Requirements
+## Requirements
 Please see the requirements for Python requirements and dependencies.
 
-Contact
+## Contact
 The authors are happy to be contacted via email (scoenen [at] uw.com or ugurel [at] uw.edu) for any questions or help regarding the use of this software framework.
 
-Documentation
+## Documentation
 Further documentation can be found in the code. Each function contains its own documentation with description of all function parameters.
