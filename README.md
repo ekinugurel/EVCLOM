@@ -2,7 +2,7 @@
 
 ## About
 A Python-based optimization model framework for minimizing daily charging load variation from electric vehicle charging events with respect to user-defined target charging loads.
-It is available at https://gitlab.com/SteffenCoe/evclom and can be downloaded or cloned from there freely. It is available under an MIT License.
+It is available at https://github.com/ekinugurel/EVCLOM and can be downloaded or cloned from there freely. It is available under an MIT License.
 
 ## Usage
 It was written in the Python programming language and used on the Python version 3.8 (downward capability given at least to Python 3.5).
